@@ -1,45 +1,45 @@
-<div align="center">
+# CardioLab UPC
 
-# 🫀 CardioLab UPC
+Research software from the cardiac dynamics team of the
+[**BIOCOM-SC**](https://biocom.upc.edu) research group (Computational Biology and Complex Systems)
+at the Universitat Politècnica de Catalunya (UPC – BarcelonaTech), Barcelona.
 
-**Computational cardiac dynamics · Universitat Politècnica de Catalunya**
+## About the lab
 
-[![Website](https://img.shields.io/badge/web-nolin.upc.edu-blue)](https://nolin.upc.edu/en/research-topics/cardiac-dynamics-lab)
-[![UPC](https://img.shields.io/badge/UPC-BarcelonaTech-0074c1)](https://www.upc.edu)
+We study the physical mechanisms behind cardiac arrhythmias using mathematical modelling and numerical
+simulation. Our work spans scales, from stochastic calcium release in a single cardiac myocyte to the
+propagation of electrical waves in cardiac tissue. We focus on how instabilities in calcium handling and
+membrane voltage lead to arrhythmogenic behaviour.
 
-</div>
+**Main research lines:**
 
-We are a research group at the **Universitat Politècnica de Catalunya (UPC – BarcelonaTech)** working on the
-**mathematical and computational modelling of the heart**, from subcellular calcium handling to tissue-level
-electrical propagation. Our goal is to understand the physical mechanisms behind cardiac arrhythmias.
+- Calcium dynamics in cardiac myocytes: Ca²⁺ sparks and waves, and RyR and SERCA regulation
+- Cardiac alternans: calcium- and voltage-driven mechanisms and how they start
+- Arrhythmia mechanisms in tissue: reentry and spiral waves in excitable media
+- Multiscale models of cardiac myocytes and tissue
+- Numerical methods and high-performance computing (CPU/GPU) for cardiac simulations
 
-## 🔬 Research lines
+## What you'll find here
 
-- **Calcium dynamics in cardiac myocytes** – stochastic and spatially resolved models of Ca²⁺ release (sparks, waves, RyR/SERCA regulation).
-- **Cardiac alternans** – voltage- and calcium-driven alternans, their onset and their link to arrhythmogenesis.
-- **Arrhythmia mechanisms in tissue** – reentry, spiral waves and propagation in 1D/2D/3D excitable media.
-- **Numerical methods & HPC** – efficient solvers (CPU/GPU) for multiscale cardiac simulations.
-
-## 📦 Repositories
+This organization hosts simulation codes, mathematical models, analysis scripts and other tools used in our publications.
 
 | Repository | Description |
 |---|---|
-| _coming soon_ | Simulation codes, analysis scripts and data accompanying our publications will be published here. |
+| *Coming soon* | |
 
-## 📚 Publications
+## Using our code
 
-A list of publications is available on the [group website](https://nolin.upc.edu/en/research-topics/cardiac-dynamics-lab).
-If you use our code, please cite the corresponding paper listed in each repository's `README`/`CITATION.cff`.
+- Each repository has its own README with installation and usage instructions.
+- Cite software as indicated in each repository (`CITATION.cff` or the *Cite this repository* button), along with the associated publication when available.
+- Report bugs or ask questions by opening an issue in the relevant repository.
 
-## 🤝 Collaborations
+## Lab members
 
-We are part of [**V-Heart SN**](https://nolin.upc.edu/en/news/spanish-network-on-cardiac-computational-modeling-was-born),
-the Spanish Network on Cardiac Computational Modelling.
+- **Blas Echebarria**, Faculty, UPC
+- **Enric Álvarez Lacalle**, Faculty, UPC
+- **Marina Martins Cano**, PhD student, UPC
+- **Lautaro Vásquez**, PhD student, UPC
 
-## 📫 Contact
+**Collaborator:** Jean Bragard, Universidad de Navarra (UNAV)
 
-Interested in collaborating, a PhD or a master's thesis? Get in touch through the
-[group website](https://nolin.upc.edu/en/research-topics/cardiac-dynamics-lab).
-
----
-<sub>Departament de Física · Universitat Politècnica de Catalunya · Barcelona</sub>
+*BIOCOM-SC · Universitat Politècnica de Catalunya · Barcelona, Spain*
